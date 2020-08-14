@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserProfile renderiza o componente 1`] = `
+<div class="user-profile__container"><img src="https://avatars3.githubusercontent.com/u/22595773?v=4" class="user-profile__avatar">
+  <h1 class="user-profile__name">Octocat Jedi</h1>
+  <p class="user-profile__bio">These are not the octocats you're looking for...</p>
+</div>
+`;

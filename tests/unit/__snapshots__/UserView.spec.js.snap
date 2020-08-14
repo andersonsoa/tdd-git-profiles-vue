@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserView.vue o componente renderiza corretamente 1`] = `
+<div class="main__container">
+  <!---->
+  <!---->
+</div>
+`;

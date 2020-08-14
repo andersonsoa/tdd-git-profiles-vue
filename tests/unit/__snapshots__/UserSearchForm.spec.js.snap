@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserSearchForm.vue rederiza o componente corretamente 1`] = `
+<div class="user-search__container"><input name="username" type="text" class="user-search__input"> <button type="submit" name="submit" class="user-search__button">
+    Pesquisar
+  </button></div>
+`;

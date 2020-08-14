@@ -1,0 +1,37 @@
+export default {
+  login: "octocat-jedi",
+  id: 22595773,
+  node_id: "MDQ6VXNlcjIyNTk1Nzcz",
+  avatar_url: "https://avatars3.githubusercontent.com/u/22595773?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/octocat-jedi",
+  html_url: "https://github.com/octocat-jedi",
+  followers_url: "https://api.github.com/users/octocat-jedi/followers",
+  following_url:
+    "https://api.github.com/users/octocat-jedi/following{/other_user}",
+  gists_url: "https://api.github.com/users/octocat-jedi/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/octocat-jedi/starred{/owner}{/repo}",
+  subscriptions_url: "https://api.github.com/users/octocat-jedi/subscriptions",
+  organizations_url: "https://api.github.com/users/octocat-jedi/orgs",
+  repos_url: "https://api.github.com/users/octocat-jedi/repos",
+  events_url: "https://api.github.com/users/octocat-jedi/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/octocat-jedi/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Octocat Jedi",
+  company: null,
+  blog: "",
+  location: null,
+  email: null,
+  hireable: null,
+  bio: "These are not the octocats you're looking for...",
+  twitter_username: null,
+  public_repos: 0,
+  public_gists: 0,
+  followers: 1,
+  following: 0,
+  created_at: "2016-10-03T15:17:36Z",
+  updated_at: "2017-07-20T18:55:37Z"
+};
